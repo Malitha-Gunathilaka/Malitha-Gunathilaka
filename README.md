@@ -26,6 +26,7 @@
 - **LinkedIn**: [Malitha Visada](https://www.linkedin.com/in/malithavisada)
 - **Email**: [malithavisada@gmail.com](mailto:malithavisada@gmail.com)
 
+<!---
 ## 📊 GitHub Stats:
 ![Malitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malitha-Gunathilaka&show_icons=true&theme=radical)
 
@@ -35,6 +36,7 @@
 ## 🖼️ Profile Views:
 ![Profile views](https://gpvc.arturio.dev/Malitha-Gunathilaka)
 
+--->
 
 <!---
 Malitha-Gunathilaka/Malitha-Gunathilaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
