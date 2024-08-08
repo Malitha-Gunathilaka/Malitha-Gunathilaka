@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Malitha Gunathilaka!
-
+<!---
 ![Profile Picture](https://github.com/Malitha-Gunathilaka.png?size=150)
-
+--->
 ## 👨‍🎓 About Me
 - **Undergraduate at University of Kelaniya, Sri Lanka**
 - **Degree**: BSc in Physics and Electronics
