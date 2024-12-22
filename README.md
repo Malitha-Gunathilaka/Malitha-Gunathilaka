@@ -8,17 +8,20 @@
 - **Field of Study**: Physics and Electronics
 
 ## 🚀 Current Projects:
+-**Badminton Shuttlecock Collection Robot**: An Arduino Mega-based robot project integrating ESP8266 for remote control and status updates.
+- **Shuttle Rover**: Developing a remote-controlled car project using Arduino.
+- **GPS Coordinate-Following Robot**: Building a robot that autonomously navigates to GPS coordinates.
 - **BoardingHub**: A Java project for managing boarding houses.
 - **HTML-PROJECT**: A PHP-based project for web development(HTML,CSS,JS,PHP).
 - **C-Programming**: A repository for C language exercises and projects.
 - **spaceship_game_python**: A Python project for creating a spaceship game.
-- **Shuttle Rover**: Developing a remote-controlled car project using Arduino.
-- **GPS Coordinate-Following Robot**: Building a robot that autonomously navigates to GPS coordinates.
+
 
 ## 🔧 Technologies & Tools:
 - **Languages**: Python, Java, JavaScript, PHP, HTML, CSS, C, SQL
 - **Tools**: Git, GitHub, VS Code
 - **Frameworks/Libraries**: React,React netive, Node.js, Express.js, Flask
+-**Hardware**: Arduino Mega, ESP8266, NEO-6M GPS, MPU9250/MPU6050, IR Sensors/IR Sensor Arry, Ultrasonic Sensors, L293D Motor Driver
 
 ## 🌟 Highlights:
 - Enthusiastic about robotics and IoT projects.
