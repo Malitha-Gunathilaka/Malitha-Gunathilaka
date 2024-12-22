@@ -13,10 +13,13 @@
 - **Web-Development-ASSIGNMENT**: An assignment involving HTML.
 - **C-Programming**: A repository for C language exercises and projects.
 - **spaceship_game_python**: A Python project for creating a spaceship game.
+- **Shuttle Rover**: Developing a remote-controlled car project using Arduino.
+- **GPS Coordinate-Following Robot**: Building a robot that autonomously navigates to GPS coordinates.
 
 ## 🔧 Technologies & Tools:
-- **Languages**: Java, PHP, HTML, C, Python, Java Script 
+- **Languages**: Python, Java, JavaScript, PHP, HTML, CSS, C, SQL
 - **Tools**: Git, GitHub, VS Code
+- **Frameworks/Libraries**: React,React netive, Node.js, Express.js, Flask
 
 ## 🌟 Highlights:
 - Enthusiastic about robotics and IoT projects.
