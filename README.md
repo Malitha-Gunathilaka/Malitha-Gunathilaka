@@ -10,7 +10,6 @@
 ## 🚀 Current Projects:
 - **BoardingHub**: A Java project for managing boarding houses.
 - **HTML-PROJECT**: A PHP-based project for web development(HTML,CSS,JS,PHP).
-- **Web-Development-ASSIGNMENT**: An assignment involving HTML.
 - **C-Programming**: A repository for C language exercises and projects.
 - **spaceship_game_python**: A Python project for creating a spaceship game.
 - **Shuttle Rover**: Developing a remote-controlled car project using Arduino.
