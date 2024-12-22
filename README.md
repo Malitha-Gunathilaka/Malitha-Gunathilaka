@@ -15,7 +15,7 @@
 - **spaceship_game_python**: A Python project for creating a spaceship game.
 
 ## 🔧 Technologies & Tools:
-- **Languages**: Java, PHP, HTML, C, Python 
+- **Languages**: Java, PHP, HTML, C, Python, Java Script 
 - **Tools**: Git, GitHub, VS Code
 
 ## 🌟 Highlights:
