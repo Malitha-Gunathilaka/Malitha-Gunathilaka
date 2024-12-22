@@ -8,7 +8,7 @@
 - **Field of Study**: Physics and Electronics
 
 ## 🚀 Current Projects:
--**Badminton Shuttlecock Collection Robot**: An Arduino Mega-based robot project integrating ESP8266 for remote control and status updates.
+- **Badminton Shuttlecock Collection Robot**: An Arduino Mega-based robot project integrating ESP8266 for remote control and status updates.
 - **Shuttle Rover**: Developing a remote-controlled car project using Arduino.
 - **GPS Coordinate-Following Robot**: Building a robot that autonomously navigates to GPS coordinates.
 - **BoardingHub**: A Java project for managing boarding houses.
